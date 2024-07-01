@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # first_game
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# First-Game-
+Est un jeu d'avion de guerre spatiale, qui a été realisé en Flutter. 
+>>>>>>> new-origin/main
