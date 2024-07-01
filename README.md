@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # first_game
 
 A new Flutter project.
@@ -19,3 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 # First-Game-
 Est un jeu d'avion de guerre spatiale, qui a été realisé en Flutter. 
 >>>>>>> new-origin/main
+=======
+# First-Game-
+Est un jeu d'avion de guerre spatiale, qui a été realisé en Flutter. 
+>>>>>>> 1e193331a718813ce2e90e21a8666a27e16d1575
