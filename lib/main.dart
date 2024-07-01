@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 
 import 'game_manager.dart';
 
-void main(){
+void main() {
   WidgetsFlutterBinding.ensureInitialized();
 
   Flame.device.fullScreen();
